@@ -21,4 +21,4 @@ In "Topic Modelling" I choose four topics, and we can for example see "Topic 3" 
 
 The topics of foundation and entrepreneurship however were not identified based on this sample.
 
-The Orange analysis is available in [lda_analysis.ows](./lda_analysis.ows).
+The analysis is available in [lda_analysis.ows](./lda_analysis.ows) and should work with Orange version `3.31.1`.
